@@ -33,7 +33,7 @@ public class Main {
                     return;
                 }
                 if (verificarEmpate(tabuleiro)) {
-                    System.out.println("*** EMPATE! NINGUEM VENCER. ***");
+                    System.out.println("*** EMPATE! NINGUEM VENCEU. ***");
                     return;
                 }
 
